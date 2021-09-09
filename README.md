@@ -1,5 +1,5 @@
 ### Greetings! 👋 
-My name is Doug!  Feel free to have a look around at some of my projects and head over to my [site](https://djleedke.github.io/) to learn a little more about me.
+My name is Doug!  Feel free to have a look around at some of my projects and head over to my [site](https://djleedke.github.io/) to learn a little more about what I do.
 
 <!--
 **djleedke/djleedke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
